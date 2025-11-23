@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+data/*.zip
+data/*.csv
+
+# IDE
+.vscode/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
